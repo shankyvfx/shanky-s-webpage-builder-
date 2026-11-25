@@ -1,0 +1,12 @@
+workspace/
+__pycache__/
+*.py[cod]
+.local-session-key
+*.protected
+.env
+.env.*
+*.log
+*.zip
+.venv/
+venv/
+.DS_Store
